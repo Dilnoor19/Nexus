@@ -23,7 +23,8 @@ A simple and mystical Nexus that uses your name and a fortune API to generate a 
 
 ## 📁 Project Structure
 
-Deployed link :- https://dilnoor19.github.io/Nexus/
+Deployed link :- nexus-rho-five.vercel.app
+
 
 
 
